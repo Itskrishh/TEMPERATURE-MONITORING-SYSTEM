@@ -18,8 +18,9 @@ The Temperature Monitoring System is a useful and practical electronics project 
 
 CIRCUIT:
 
-<img width="870" height="435" alt="Image" src="https://github.com/user-attachments/assets/779c4a76-50f3-4673-8962-a8f88c89d78f" />
+<img width="848" height="343" alt="Image" src="https://github.com/user-attachments/assets/260ab2f0-6302-4efb-b5dc-ee7db1caec36" />
 
 OUTPUT:
 
-<img width="848" height="343" alt="Image" src="https://github.com/user-attachments/assets/260ab2f0-6302-4efb-b5dc-ee7db1caec36" />
+<img width="870" height="435" alt="Image" src="https://github.com/user-attachments/assets/779c4a76-50f3-4673-8962-a8f88c89d78f" />
+
